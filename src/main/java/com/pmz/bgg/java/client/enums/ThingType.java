@@ -20,10 +20,6 @@ package com.pmz.bgg.java.client.enums;
 
 import org.apache.commons.lang3.StringUtils;
 
-/**
- *
- * @author Omertron
- */
 public enum ThingType {
     BOARDGAME,
     BOARDGAMEEXPANSION,

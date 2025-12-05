@@ -20,10 +20,6 @@ package com.pmz.bgg.java.client.model;
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 
-/**
- *
- * @author Omertron
- */
 public class Link extends IdValue {
 
     @JacksonXmlProperty(localName = "type", isAttribute = true)

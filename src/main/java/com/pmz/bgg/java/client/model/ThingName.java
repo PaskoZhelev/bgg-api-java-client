@@ -23,10 +23,6 @@ import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlText;
 import com.pmz.bgg.java.client.enums.PrimaryAlternative;
 
-/**
- *
- * @author Omertron
- */
 @SuppressWarnings("unused")
 public class ThingName extends AbstractXmlMapping {
 

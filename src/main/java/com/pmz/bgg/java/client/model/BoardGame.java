@@ -29,10 +29,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- *
- * @author Omertron
- */
 public class BoardGame extends Thing {
 
     private static final Logger LOG = LoggerFactory.getLogger(BoardGame.class);

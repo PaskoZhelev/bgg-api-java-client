@@ -20,10 +20,6 @@ package com.pmz.bgg.java.client.model;
 
 import com.fasterxml.jackson.annotation.JsonSetter;
 
-/**
- *
- * @author Omertron
- */
 public class Comment extends AbstractXmlMapping {
 
     private String username;

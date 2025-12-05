@@ -23,7 +23,6 @@ import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 /**
  * Provide a way to retrieve a "value" that is stored as an attribute in the XML
  *
- * @author Omertron
  * @param <T> The expected type of the value
  */
 public class ValueHolder<T> extends AbstractXmlMapping {

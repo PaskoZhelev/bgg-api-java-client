@@ -24,10 +24,6 @@ import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Omertron
- */
 public class VideoWrapper extends AbstractXmlMapping {
 
     @JacksonXmlProperty(localName = "total", isAttribute = true)

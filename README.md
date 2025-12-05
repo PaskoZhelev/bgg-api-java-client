@@ -53,7 +53,7 @@ BggApi authenticatedClient = new BggApi(userToken);
 
 Retrieve extended information for a game using its BGG ID.
 ```java
-import com.omertron.bgg.model.BoardGameExtended;
+import com.pmz.bgg.java.client.model.BoardGameExtended;
 import java.util.List;
 
 public class Example {
@@ -81,7 +81,7 @@ public class Example {
 
 Search BGG for titles matching a query.
 ```java
-import com.omertron.bgg.model.SearchWrapper;
+import com.pmz.bgg.java.client.model.SearchWrapper;
 
 public class Example {
 public static void main(String[] args) {

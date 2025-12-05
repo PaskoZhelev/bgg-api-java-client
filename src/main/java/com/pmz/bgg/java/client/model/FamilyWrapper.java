@@ -25,10 +25,6 @@ import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement;
 
 import java.util.List;
 
-/**
- *
- * @author Omertron
- */
 @JacksonXmlRootElement(localName = "items")
 @JsonIgnoreProperties("termsofuse")
 public class FamilyWrapper extends AbstractXmlMapping {

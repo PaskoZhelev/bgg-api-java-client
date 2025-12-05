@@ -25,10 +25,6 @@ import com.pmz.bgg.java.client.enums.FamilyType;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Omertron
- */
 public class Family extends AbstractXmlMapping {
 
     @JacksonXmlProperty(localName = "type", isAttribute = true)

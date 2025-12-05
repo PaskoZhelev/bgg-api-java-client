@@ -25,10 +25,6 @@ import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Omertron
- */
 @JsonIgnoreProperties("page")
 public class IdValueWrapper {
 

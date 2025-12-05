@@ -26,11 +26,6 @@ import org.slf4j.LoggerFactory;
 
 import java.io.Serializable;
 
-/**
- * Abstract class to handle any unknown properties by outputting a log message
- *
- * @author Omertron
- */
 public abstract class AbstractXmlMapping implements Serializable {
 
     private static final long serialVersionUID = 100L;

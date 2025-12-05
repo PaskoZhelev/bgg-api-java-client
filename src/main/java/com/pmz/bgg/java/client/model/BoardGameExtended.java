@@ -27,10 +27,6 @@ import com.pmz.bgg.java.client.enums.LinkType;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Omertron
- */
 @JacksonXmlRootElement(localName = "item")
 @JsonIgnoreProperties("poll")
 public class BoardGameExtended extends BoardGame {
