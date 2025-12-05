@@ -26,9 +26,10 @@ Add the dependency block to your pom.xml. The GROUP_ID is com.github.YOUR_USERNA
 ```xml
 <dependencies>
     <dependency>
-        <groupId>com.github.YOUR_USERNAME</groupId>
-        <artifactId>REPO_NAME</artifactId>
-        <version>v1.0.0</version> </dependency>
+        <groupId>com.github.PaskoZhelev</groupId>
+        <artifactId>bgg-api-java-client</artifactId>
+        <version>1.0.0</version> 
+    </dependency>
 </dependencies>
 ```
 

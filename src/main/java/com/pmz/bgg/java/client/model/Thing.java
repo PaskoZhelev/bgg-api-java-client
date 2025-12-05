@@ -1,5 +1,4 @@
 /*
- *      Copyright (c) 2017 Stuart Boston
  *
  *      This file is part of the Board Game Geek API Wrapper.
  *
